@@ -11,3 +11,6 @@ Today I read or in other words Annies favourite blog posts list. Grouped by topi
 ### Testing
 - [Unit testing is fine by Mark Seemann](https://blog.ploeh.dk/2020/08/17/unit-testing-is-fine/)
 - [Test sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
+
+### Elixir
+- [Strategies to improve your compile times](https://medium.com/multiverse-tech/how-to-speed-up-your-elixir-compile-times-part-3-strategies-to-improve-your-compile-times-fc0c448b5558)
